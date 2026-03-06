@@ -1,3 +1,9 @@
+#my files
+CHECKLIST_PLAN.md
+TODO.md
+.spotify_cache
+.SpotiFlow_IA.code-workspace
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
